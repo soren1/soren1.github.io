@@ -2,7 +2,8 @@
 layout: post
 title:  "premier article"
 date:   2018-07-14 22:24:59 +0200
-categories: jekyll update
+categories: ios
+permalink: /1/
 ---
 ceci est un test d'articles du jekyll
 
