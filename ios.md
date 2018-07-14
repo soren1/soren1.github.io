@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /ios/
 ---
 
 Retrouvez ici les nouveautés des betas d'IOS
